@@ -1,3 +1,4 @@
+## Hi, Welcome to my profile, my name is João Pedro :)
 <div>
   <a href="https://github.com/jpcadev">
   <img height ="180em" src = "https://github-readme-stats.vercel.app/api?username=jpcadev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
