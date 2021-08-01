@@ -12,6 +12,7 @@
   <img align = "center" alt = "JP-HTML" height= "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align = "center" alt = "JP-CSS" height= "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align = "center" alt = "JP-React" height= "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align = "right" alt = "JP- Snoopy" src = "https://s6.gifyu.com/images/snoopy.gif"
 </div>
   
   ##
