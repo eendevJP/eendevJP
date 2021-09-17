@@ -15,6 +15,7 @@
   
 <div> 
   <a href = "https://www.linkedin.com/in/jpcadev/" target ="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "http://lattes.cnpq.br/2135217547166826" target ="_blank"><img src="https://img.shields.io/badge/-Lattes-green?style=for-the-badge&logo=mit&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/jpcadev/jpcadev/blob/output/github-contribution-grid-snake.svg)
  
